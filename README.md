@@ -3,21 +3,26 @@ Portada
 "Sobre mi"
 Portafolio QA: Proyectos de testing APIs, automatización y análisis KPIs
 
-# Sobre Mí
+¡Hola! Soy Karina Martínez, Quality Assurance Specialist con experiencia comprobada en optimización de procesos y control de calidad en entornos dinámicos de call centers y banca. Ubicada en Nuevo León, México, estoy en transición hacia QA Engineer mediante formación avanzada en TripleTen.
 
-¡Hola! Soy Karina Martínez, **QA Analyst** con experiencia en call centers, banca y enseñanza de inglés, actualmente upskilling a **QA Engineer** vía TripleTen.
+Experiencia Clave:
 
-**Trayectoria:**
-- Análisis de calidad: Diseñé test cases y monitoreé KPIs (AHT, CSAT), reduciendo errores 25% [cite:12].
-- Banca: Revisión documentación CNBV/AML con Excel avanzado.
-- Educación: Maestra de inglés primaria, enfocada en feedback y desarrollo.
+QA en Call Centers: Monitoreé interacciones de agentes evaluando KPIs críticos como AHT, CSAT y First Call Resolution; diseñé test cases que redujeron errores en un 25% mediante feedback calibrado y reportes accionables.
 
-**Skills Actuales:**
-- Pruebas manuales/API (Postman), JIRA, Agile.
-- En progreso: Automatización (Selenium, Python), CI/CD.
+Back Office Agent: Validé documentación sensible bajo normativas CNBV/AML, asegurando compliance 100% con análisis detallado en Excel avanzado y flujos de aprobación.
 
-**Objetivos:**
-Busco roles QA en San Luis Potosí para automatizar testing y optimizar performance. Explora mis proyectos abajo.
+Habilidades:
 
-📧 karina@email.com | [LinkedIn](tu-link) | [CV PDF](link)
+Pruebas manuales y API (Postman), JIRA, Agile/Scrum.
+
+Análisis de datos, optimización de performance y coaching.
+
+En progreso: Automatización (Selenium, Python), CI/CD.
+
+Busco oportunidades en QA para entornos tecnológicos en Nuevo León. Explora mis proyectos abajo.
+
+📧 [qa.karinamtz@gmail.com]
+🔗 www.linkedin.com/in/karina-martinez-qa
+🐙 GitHub karinamartinez.github.io
+
 
