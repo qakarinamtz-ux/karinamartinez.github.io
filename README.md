@@ -13,7 +13,7 @@ Back Office Agent: Validé documentación sensible bajo normativas CNBV/AML, ase
 
 Habilidades:
 
-Pruebas manuales y API (Postman), JIRA, Agile/Scrum.
+Pruebas manuales y API (Postman), JIRA.
 
 Análisis de datos, optimización de performance y coaching.
 
